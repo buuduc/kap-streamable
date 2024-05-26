@@ -9,3 +9,7 @@ In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this 
 ## Usage
 
 In the editor, after recording, select one of the export formats, and then `Share on Streamable`.
+
+## Notice 
+
+The purpose of this fork is to fix the issue that was raised [here](https://github.com/kevva/kap-streamable/pull/4)

@@ -1,6 +1,6 @@
 {
 	"name": "kap-streamable-v2",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Share on Streamable",
 	"license": "MIT",
 	"repository": "buuduc/kap-streamable",
@@ -16,9 +16,9 @@
 		"index.js"
 	],
 	"keywords": [
+		"kap-plugin",
 		"apng",
 		"gif",
-		"kap-plugin",
 		"mp4",
 		"share",
 		"upload",

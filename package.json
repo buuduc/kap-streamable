@@ -3,11 +3,11 @@
 	"version": "1.0.1",
 	"description": "Share on Streamable",
 	"license": "MIT",
-	"repository": "kevva/kap-streamable",
+	"repository": "buuduc/kap-streamable",
 	"author": {
-		"name": "Kevin Martensson",
-		"email": "kevinmartensson@gmail.com",
-		"url": "github.com/kevva"
+		"name": "Duc Nguyen",
+		"email": "buuduc1999@gmail.com",
+		"url": "github.com/buuduc"
 	},
 	"scripts": {
 		"test": "xo && ava"
